@@ -1,0 +1,56 @@
+[33mcommit 5cb0d62c353a39762926115b55fe52159ba9750c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ikechiauxtynokorie <ikechiauxtynokorie@gmail.com>
+Date:   Sat Apr 9 11:33:56 2022 +0100
+
+    line two on both main and branch
+
+[33mcommit 8bac37b37bf84aa4b1febe7c5b22fb2a9a595d04[m
+Merge: 897c773 fdb8adf
+Author: ikechiauxtynokorie <101457843+ikechiauxtynokorie@users.noreply.github.com>
+Date:   Sat Apr 9 11:21:00 2022 +0100
+
+    Merge pull request #1 from ikechiauxtynokorie/feature-readme-instructions
+    
+    updated readme
+
+[33mcommit fdb8adf4b3924b9974136668090722b4c8680c02[m[33m ([m[1;31morigin/feature-readme-instructions[m[33m)[m
+Author: ikechiauxtynokorie <ikechiauxtynokorie@gmail.com>
+Date:   Sat Apr 9 11:05:48 2022 +0100
+
+    updated readme
+
+[33mcommit 897c7738cb266b32cae8ae84b406a1ea61ca2a89[m
+Author: ikechiauxtynokorie <ikechiauxtynokorie@gmail.com>
+Date:   Fri Apr 8 01:10:29 2022 +0100
+
+    Adding index.html
+
+[33mcommit d6dacb5d04f1c9707c8767e39d48ae68e4a43fc8[m
+Author: ikechiauxtynokorie <101457843+ikechiauxtynokorie@users.noreply.github.com>
+Date:   Mon Apr 4 23:52:13 2022 +0100
+
+    Update README.md
+
+[33mcommit bcdb9ca27ada643f55591b8cc3e78dacb9f19f2d[m
+Author: ikechiauxtynokorie <101457843+ikechiauxtynokorie@users.noreply.github.com>
+Date:   Mon Apr 4 23:50:53 2022 +0100
+
+    Update README.md
+
+[33mcommit 62773b3387d6bb68d896207df222f03ecccf772f[m
+Author: ikechiauxtynokorie <101457843+ikechiauxtynokorie@users.noreply.github.com>
+Date:   Mon Apr 4 23:45:50 2022 +0100
+
+    Update README.md
+
+[33mcommit c49275dcc807fd894b256b9e210cc74241cbdf42[m
+Author: ikechiauxtynokorie <101457843+ikechiauxtynokorie@users.noreply.github.com>
+Date:   Mon Apr 4 23:44:26 2022 +0100
+
+    Update README.md
+
+[33mcommit 90193ba17684cf0f5a01e76b515ad87856810f2c[m
+Author: ikechiauxtynokorie <101457843+ikechiauxtynokorie@users.noreply.github.com>
+Date:   Mon Apr 4 23:42:38 2022 +0100
+
+    Create README.md
